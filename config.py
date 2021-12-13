@@ -1,1 +1,1 @@
-db_password = Superman09!
+db_password = 'Superman09!'
