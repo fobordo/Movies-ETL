@@ -1,6 +1,9 @@
 # File containing pgAdmin password
 config.py
 
+# ratings CSV
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
