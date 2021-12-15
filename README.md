@@ -1,2 +1,4 @@
-# Movies-ETL
-Module 8 Repository
+# Movies-ETL Analysis
+
+## Overview
+The purpose of the Movies-ETL Analysis was to help the Amazing Prime company to analyze movie data and predict the popular pictures. The datasets consisted of a [Wikipedia JSON file](https://github.com/fobordo/Movies-ETL/blob/main/Resources/wikipedia-movies.json) containing data on all movies released since 1990, a [metadata CSV file](https://github.com/fobordo/Movies-ETL/blob/main/Resources/movies_metadata.csv) containing details about the movies from The Movie Database (TMDb), and another CSV file containing ratings data on those movies. During the analysis, the data from these sources was extracted, transformed into one clean dataset, and loaded into SQL tables using Python, Jupyter Notebook, and pgAdmin.
